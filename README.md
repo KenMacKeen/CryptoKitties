@@ -2,4 +2,4 @@ CryptoKitty is one of the world's first blockchain games, allowing players to pu
 
 This is a crypto kitties application written in the solidity programming language and deployed on the Ethereum Sepolia testnet.
 
-Ethereum Address: 
+Contract Address: 0xe599488ff550166133bE62E54e44915df37c2a3e
